@@ -2,8 +2,8 @@
 
     on:
       schedule:
-        - cron: "0 */12 * * *" # Runs automatically every 12 hours
-      workflow_dispatch: # Allows manual triggering
+        - cron: "0 */1 * * *" # Runs automatically every 12 hours
+    
 
     jobs:
       build:
