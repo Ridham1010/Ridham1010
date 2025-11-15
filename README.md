@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a passionate developer and AI/ML enthusiast.I am currently an undergrad at IIT Jodhpur. Hope you like my projects and contributions.
 
 <!--
 **Ridham1010/Ridham1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
